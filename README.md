@@ -1,6 +1,7 @@
 # pat2-subtask1
 
-Morse Code Guide
+Morse Code 
+
 == Overview ==
 
 Morse code is a communication system that uses dots (.) and dashes (-) to represent letters, numbers, and symbols. Instead of sending full text, messages are encoded into signals that can be transmitted using sound, light, or electrical pulses.
